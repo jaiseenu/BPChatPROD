@@ -87,6 +87,6 @@
   </script>
 
   <!-- Salesforce Embedded Messaging Bootstrap -->
-  <script type='text/javascript' src='https://pflms--qa.sandbox.my.site.com/ESWBorrowerPortal1764600240865/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+  <script type='text/javascript' src='https://pflms.my.site.com/ESWBorrowerPortal1764600240865/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
